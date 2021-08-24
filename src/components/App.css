@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap");
+.App {
+  background: linear-gradient(180deg, #2f2e41 51.22%, #57b894 98.34%);
+  height: 100vh;
+  font: "Roboto";
+  font-size: 1.5625em;
+}
+
+.card {
+  background: rgba(87, 184, 148, 0.3);
+  border-radius: 10px;
+}
