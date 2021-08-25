@@ -11,7 +11,7 @@ function card() {
       <Row>
         <Col xs={12} lg={12} className="mx-auto">
           <Card>
-            <Card.Img src="/assets/404.svg" />
+            <Card.Img src="assets/404.svg" />
             <Card.Body>
               <Card.Text className="text-center">
                 OOPS, LO SENTIMOS LA PAGINA QUE INTENTAS VER <br></br>NO SE
